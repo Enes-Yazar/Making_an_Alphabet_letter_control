@@ -1,0 +1,10 @@
+C:\Users\pc\Desktop\Alfabe\Alfabe\bin\Debug\Alfabe.exe.config
+C:\Users\pc\Desktop\Alfabe\Alfabe\bin\Debug\Alfabe.exe
+C:\Users\pc\Desktop\Alfabe\Alfabe\bin\Debug\Alfabe.pdb
+C:\Users\pc\Desktop\Alfabe\Alfabe\obj\Debug\Alfabe.csproj.AssemblyReference.cache
+C:\Users\pc\Desktop\Alfabe\Alfabe\obj\Debug\Alfabe.Form1.resources
+C:\Users\pc\Desktop\Alfabe\Alfabe\obj\Debug\Alfabe.Properties.Resources.resources
+C:\Users\pc\Desktop\Alfabe\Alfabe\obj\Debug\Alfabe.csproj.GenerateResource.cache
+C:\Users\pc\Desktop\Alfabe\Alfabe\obj\Debug\Alfabe.csproj.CoreCompileInputs.cache
+C:\Users\pc\Desktop\Alfabe\Alfabe\obj\Debug\Alfabe.exe
+C:\Users\pc\Desktop\Alfabe\Alfabe\obj\Debug\Alfabe.pdb
